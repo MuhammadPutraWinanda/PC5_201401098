@@ -1,12 +1,7 @@
-# Tempat Pengumpulan Tugas PC
+# PC5_Tugas1_nim
+### Nama
+### PC 5
 
-### Daftar Tugas:
 
-#### Tugas 1 
-> Buatlah web seperti di modul1 dan ubahlah tampilannya.
-
-#### Tugas 2
-> Buatlah web seperti di modul2 dan ubahlah tampilannya.
-
-#### Tugas 2
-> Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
+###### Buatlah web seperti di modul dan ubahlah tampilannya 
+> Screenshot tampilan dimasukkan dalam readme
